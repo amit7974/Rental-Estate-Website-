@@ -1,0 +1,7 @@
+{
+  "name": "HomeLuxe Real Estate",
+  "description": "Modern real estate platform to browse, buy, rent, sell properties and book property viewings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
